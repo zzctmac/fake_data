@@ -1,0 +1,18 @@
+{
+    "name": "zzc/fake_data",
+    "description": "fake data to database",
+    "license": "apache2",
+    "authors": [
+        {
+            "name": "zhouzhichao",
+            "email": "zzc123@foxmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+		"fake\\":"src"
+	}
+    }
+}

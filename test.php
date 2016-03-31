@@ -2,7 +2,7 @@
 header('Content-Type:text/html;charset=utf-8');
 include './vendor/autoload.php';
 $sex_data = array(
-    array('m',1),
+    array('m',1232),
     array('w',1)
 );
 $config = array(
